@@ -1,4 +1,4 @@
-# NOVELTY
+# CS607 - ADVERSARIAL ML PROJECT
 ## Defense Mechanism against Super Resolution (SRGAN)
 
 ### Original Goal: 
